@@ -1,0 +1,10 @@
+C:\Users\Admin\Desktop\Vlad\RGR\bin\Debug\RGR.exe.config
+C:\Users\Admin\Desktop\Vlad\RGR\bin\Debug\RGR.exe
+C:\Users\Admin\Desktop\Vlad\RGR\bin\Debug\RGR.pdb
+C:\Users\Admin\Desktop\Vlad\RGR\obj\Debug\RGR.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Vlad\RGR\obj\Debug\RGR.Properties.Resources.resources
+C:\Users\Admin\Desktop\Vlad\RGR\obj\Debug\RGR.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Vlad\RGR\obj\Debug\RGR.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Vlad\RGR\obj\Debug\RGR.exe
+C:\Users\Admin\Desktop\Vlad\RGR\obj\Debug\RGR.pdb
+C:\Users\Admin\Desktop\Vlad\RGR\obj\Debug\ClockApp.Form1.resources

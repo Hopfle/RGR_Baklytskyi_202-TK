@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RGR", "RGR.csproj", "{7CEA0AB9-480F-42C2-8D84-15D735C6E76D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7CEA0AB9-480F-42C2-8D84-15D735C6E76D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CEA0AB9-480F-42C2-8D84-15D735C6E76D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CEA0AB9-480F-42C2-8D84-15D735C6E76D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CEA0AB9-480F-42C2-8D84-15D735C6E76D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2996EE30-9DCC-4335-BACC-E2FEBC93B7C2}
+	EndGlobalSection
+EndGlobal
